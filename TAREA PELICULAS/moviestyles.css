@@ -1,0 +1,21 @@
+.Movie1{
+  color:red;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.movie2{
+  color: aqua;
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.movie3{
+  color: blanchedalmond;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.XD{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
